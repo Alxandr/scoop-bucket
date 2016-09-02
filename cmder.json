@@ -5,7 +5,6 @@
   "shortcuts": [
     [ "Cmder.exe", "Cmder" ]
   ],
-  "post_install": "Start-Process powershell -Verb runAs -ArgumentList \"Cmder.exe /REGISTER ALL\"",
   "bin": [
     [ "Cmder.exe", "cmder" ]
   ]
