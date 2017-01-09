@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/cmderdev/cmder/releases/download/1.3.1/cmder.7z",
-  "hash": "c91d27a864014b866f8d256ab3f9cac57c5e0dd72101330003063737eedafe3a",
+  "version": "1.3.2",
+  "url": "https://github.com/cmderdev/cmder/releases/download/v1.3.2/cmder.7z",
+  "hash": "6a1e19c9a45c3fb162fe85ae3cede74bdbf0a701288de2d69d72e356d29b8d3c",
   "shortcuts": [
     [ "Cmder.exe", "Cmder" ]
   ],
