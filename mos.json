@@ -1,6 +1,6 @@
 {
   "homepage": "https://mongoose-os.com",
-  "version": "0.0.1",
+  "version": "2.2",
   "url": "https://mongoose-os.com/downloads/mos-release/win/mos.exe",
   "bin": "mos.exe"
 }
