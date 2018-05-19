@@ -2,5 +2,6 @@
   "homepage": "https://mongoose-os.com",
   "version": "2.2",
   "url": "https://mongoose-os.com/downloads/mos-release/win/mos.exe",
-  "bin": "mos.exe"
+  "bin": "mos.exe",
+  "depends": ["gcc"]
 }
